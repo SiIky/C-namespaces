@@ -1,6 +1,5 @@
 # C-namespaces
 
-Backward compatible way to simulate namespaces in C.
 Simply define a struct containing all the public functions
 and variables, a function to create and return a pointer to
 such struct.
